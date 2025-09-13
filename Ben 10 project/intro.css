@@ -1,0 +1,455 @@
+body{
+    background-color: rgb(0, 64, 17);
+}
+
+#nav1{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end1{
+    margin-top: 525px;
+    margin-left: 520px;
+    color: rgb(5, 131, 5);
+}
+
+nav a {
+  margin-right: 100px;  }
+
+#img1{
+margin-left: 580px;
+margin-top: 10px;
+height: 500px;
+    position: absolute;
+    animation: slide 3s linear infinite alternate;
+  }
+
+  @keyframes slide {
+    0% {
+      left: 10px;  
+    }
+    100% {
+      left: 300px; 
+    }
+  } 
+
+#bth1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(26, 119, 26);
+    border-radius: 20px;
+   cursor: pointer;
+   box-shadow: 0 0 20px rgb(2, 185, 51);
+}
+
+#bth1:hover{
+background-color: rgb(0, 241, 0);
+ transform: scale(1.1);
+}
+
+
+#bth2{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(26, 119, 26);
+    border-radius: 20px;
+   cursor: pointer;
+   box-shadow: 0 0 20px rgb(51, 160, 80);
+}
+
+#bth2:hover{
+background-color: rgb(0, 241, 0);
+ transform: scale(1.1);
+}
+
+#end2{
+    margin-top: 300px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+#nav2{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#bth3{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(26, 119, 26);
+    border-radius: 20px;
+   cursor: pointer;
+   box-shadow: 0 0 20px rgb(51, 160, 80);
+   margin-left: 115px;
+}
+
+#bth3:hover{
+background-color: rgb(0, 241, 0);
+}
+
+#nav3{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end3{
+    margin-top: 510px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+#nav4{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end4{
+    margin-top: 340px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+#nav5{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end5{
+    margin-top: 1350px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+
+#nav6{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end6{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+    #img2 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img2:hover {
+       transform: scale(1.05);
+    }
+
+    #img3 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img3:hover {
+       transform: scale(1.02);
+    }
+
+       #img4 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img4:hover {
+       transform: scale(1.02);
+    }
+
+    
+#nav7{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end7{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+      #img6 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img6:hover {
+       transform: scale(1.02);
+    }
+          
+
+
+          #img7 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img7:hover {
+       transform: scale(1.02);
+    }
+       #img5 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img5:hover {
+       transform: scale(1.02);
+    }
+
+    #nav8{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end8{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+
+    #nav9{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end9{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+      #img8 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img8:hover {
+       transform: scale(1.02);
+    }
+          
+
+
+          #img9 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img9:hover {
+       transform: scale(1.02);
+    }
+
+        #img10 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img10:hover {
+       transform: scale(1.02);
+    }
+          
+
+
+          #img11 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img11:hover {
+       transform: scale(1.02);
+    }
+
+        #nav10{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end10{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+  #nav11{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end11{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+        #img12 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img12:hover {
+       transform: scale(1.02);
+    }
+          
+
+
+          #img13 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img13:hover {
+       transform: scale(1.02);
+    }
+
+            #img14 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img14:hover {
+       transform: scale(1.02);
+    }
+          
+
+
+          #img15 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img15:hover {
+       transform: scale(1.02);
+    }
+
+      #nav12{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+
+#end12{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+      #nav13{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+#end13{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+            #img16 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img16:hover {
+       transform: scale(1.02);
+    }
+          
+
+
+          #img17 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img17:hover {
+       transform: scale(1.02);
+    }
+
+    #nav14{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    box-shadow: 0 0 10px rgb(0, 175, 47);
+}
+#end14{
+    margin-top: 200px;
+    margin-left: 535px;
+    color: rgb(5, 131, 5);
+}
+
+            #img18 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img18:hover {
+       transform: scale(1.02);
+    }
+          
+
+
+          #img19 {
+      cursor: pointer;
+    }
+
+
+    /* When clicked */
+#img19:hover {
+       transform: scale(1.02);
+    }
